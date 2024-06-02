@@ -1,0 +1,43 @@
+fieldset {
+    border: none;
+    margin-top: 50px;
+}
+
+.first {
+    display: inline-block;
+    justify-content: space-between;
+    margin-left: 10%;
+    
+}
+
+.first button {
+    margin: 0;
+    width:90px;
+    height: 40px;
+    gap: 0px;
+    border-radius: 10px ;
+    opacity: 0px;
+    background-color: #54BD95;
+   color: #F8F8FA;
+border: none;
+}
+
+#content {
+    color: rgb(180, 178, 178);
+    margin-left: 25%;
+}
+
+#features {
+    font-size: 2.2rem;
+}
+
+.first img {
+    height: 290px;
+    width: 350px;
+}
+
+.text {
+    display: inline-block;
+    color: rgb(180, 178, 178);
+   
+}

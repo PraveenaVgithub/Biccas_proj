@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+.whole_159{
+ width:fit-content;
+ font-family: "Inter", sans-serif;
+}
+.whole_159 h2{
+font-size: 45px;
+font-weight: 600;
+line-height: 60.51px;
+text-align: left;
+color:  #191A15; 
+/* width: auto; */
+width: 600px;height: 122px;
+}
+.whole_159 p{
+
+font-size: 14px;
+font-weight: 500;
+line-height: 30px;
+text-align: left;
+color: #A6A6A6;
+
+}
+.whole_159 h6{
+   color: #A6A6A6;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 21.78px;
+   text-align: left;
+   
+}
+.rating{
+    width: fit-content;
+}
+.rating h5{
+font-size: 16px;
+font-weight: 700;
+line-height: 21.78px;
+text-align: left;
+color: #191A15;
+}
+.rating h6{
+font-size: 14px;
+font-weight: 700;
+line-height: 21.78px;
+text-align: left;
+color: #A6A6A6;
+
+}

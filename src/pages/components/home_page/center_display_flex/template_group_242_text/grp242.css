@@ -1,0 +1,45 @@
+.whole_grp242{
+    width: 500px;
+    height: fit-content; 
+    text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+.whole_grp242 h5{
+font-family: "Inter", sans-serif;
+font-size: 50px;
+font-weight: 700;
+line-height: 60px;
+text-align: left;
+height: auto;
+}
+.whole_grp242 img{
+    margin-left: 0px;
+    width:350px;
+    height: 40px;
+}
+.whole_grp242 h6{
+height: 60px;
+width: 360px;
+    font-family:"Inter", sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 25px;
+text-align: left;
+}
+.trial{
+background-color: #54BD95;
+border-radius: 40px;
+opacity: 0px;
+border: none;
+color:  #FFFFFF;
+
+
+}
+.view_demo{
+    border: none;
+    background-color: transparent;
+    text-align: center;  font-size: 16px;
+}
+.view_demo span{
+    padding: 4px;
+}

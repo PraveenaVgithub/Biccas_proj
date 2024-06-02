@@ -1,0 +1,15 @@
+.heading{
+    width: fit-content;
+    font-family: "Inter", sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+.heading p{
+     width:330px;
+     height: 80px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    
+    color: #A6A6A6;
+}
