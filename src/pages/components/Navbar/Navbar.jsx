@@ -18,7 +18,7 @@ const Navbar = () => {
       </div>
       <div className=' last_nav '>
       <NavLink to="/login" className="activeClass"> Login </NavLink>
-        <button className='ms-3'onClick={()=>{(navigate('/signup'))}}>Sign Up</button>
+      <button className='ms-3'onClick={()=>{(navigate('/signup'))}}>Sign Up</button>
       </div>
     </div>
  
