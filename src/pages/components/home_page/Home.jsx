@@ -7,6 +7,7 @@ import Center_display_group243 from './center_display_flex/Center_display_group2
 import Company from './company/Company';
 import How_We_Support from './how_we_support_grp_240/How_We_Support';
 import Our_Features from './OurFeatures/Our_Features';
+import Footer from '../../Footer/Footer';
 
 const Home = () => {
   return (
@@ -18,6 +19,7 @@ const Home = () => {
 <Company/>
 <How_We_Support/>
 <Our_Features/>
+<Footer/>
  </div>
   
     </>

@@ -32,7 +32,7 @@ const InputPassword = ({ setPassword }) => {
           onChange={handlePasswordChange} 
         />
       </div>
-      {error && <div className="text-danger">{error}</div>}
+      {error && <div className="text-danger"style={{width:'300px',height:'55px',fontSize:'13px'}}>{error}</div>}
     </>
   );
 };
