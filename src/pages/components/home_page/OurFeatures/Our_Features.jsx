@@ -5,19 +5,19 @@ const Our_Features = () => {
   return (
   <>
     <fieldset>
-    <div class="first ">
+    <div className="first ">
             <h2 id="features">
                 Our Features<br/>you can get
             </h2>
         </div>
-        <div class="first ">
+        <div className="first ">
             <p id="content">
                 We offer a variety of interesting features that you can<br/>
                 help increase your productivity at work and manage
                 your project easily
             </p>
         </div>
-        <div class="first">
+        <div className="first">
             <button>Get Started </button>
         </div>
         <br/>

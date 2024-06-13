@@ -33,7 +33,7 @@ const SignUp = () => {
           await createUserWithEmailAndPassword(auth, email, password);
           const user = auth.currentUser;
           console.log(user);
-
+        
           const newEntry = {
               id: new Date().getTime().toString(),
               username,
