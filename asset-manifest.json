@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Biccas_proj/static/css/main.5719fa2a.css",
-    "main.js": "/Biccas_proj/static/js/main.c1537410.js",
+    "main.css": "/Biccas_proj/static/css/main.88491434.css",
+    "main.js": "/Biccas_proj/static/js/main.b165e0ec.js",
     "static/media/Group138.png": "/Biccas_proj/static/media/Group138.ebeaa3cd3a9178f2ba03.png",
     "static/media/CloudStorage.jpeg": "/Biccas_proj/static/media/CloudStorage.95f261b0d50dc7c20132.jpeg",
     "static/media/DailyAnalytics.jpeg": "/Biccas_proj/static/media/DailyAnalytics.ed99254ca024539bfa70.jpeg",
     "index.html": "/Biccas_proj/index.html",
-    "main.5719fa2a.css.map": "/Biccas_proj/static/css/main.5719fa2a.css.map",
-    "main.c1537410.js.map": "/Biccas_proj/static/js/main.c1537410.js.map"
+    "main.88491434.css.map": "/Biccas_proj/static/css/main.88491434.css.map",
+    "main.b165e0ec.js.map": "/Biccas_proj/static/js/main.b165e0ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.5719fa2a.css",
-    "static/js/main.c1537410.js"
+    "static/css/main.88491434.css",
+    "static/js/main.b165e0ec.js"
   ]
 }
