@@ -7,6 +7,7 @@ import Faq from './pages/components/faq/Faq';
 import Aboutus from './pages/components/aboutus/Aboutus';
 import SignUp from './pages/components/Signup/SignUp';
 import Login from './pages/components/Login/Login';
+import CartItems from './pages/components/product/CartItems';
 const App = () => {
   return (
     <HashRouter>
@@ -14,10 +15,12 @@ const App = () => {
         <Route path="/" element={<Home/>}/>
           <Route path="/blog" element={<Blog/>} />
           <Route path="/product" element={<Product/>} />
+          <Route path="/cartitems"element={<CartItems/>}/>
           <Route path="/faq" element={<Faq/>} />
           <Route path="/about" element={<Aboutus />}/>
           <Route path="/signup" element={<SignUp/>}/>
           <Route path="/login" element={<Login/>}/>
+          
       </Routes>
 
 
