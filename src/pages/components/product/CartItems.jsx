@@ -31,7 +31,7 @@ const CartItems = ({ cart, size, setShow, setCart }) => {
   };
 
   const handleBackClick = () => {
-    setShow(true);
+    setShow(false);
   };
 
   const handleQuantityChange = (id, addorsub1) => {
