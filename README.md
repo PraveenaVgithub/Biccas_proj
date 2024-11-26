@@ -1,6 +1,6 @@
 
 # Bookstore Web Application
-View : praveenavgithub.github.io/Biccas_proj/
+View : (praveenavgithub.github.io/Biccas_proj/)
 
 This project is a **Bookstore Web Application** built using **React.js**, **Firebase**, **Bootstrap**, **CSS**, and **HTML**. The app fetches book data from the **New York Times API**, providing users with a seamless browsing and shopping experience. 
 
