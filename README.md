@@ -57,13 +57,7 @@ Ensure you have the following installed:
    ```bash
    npm install
    ```
-4. Create a `.env` file in the project root and add your Firebase and New York Times API keys:
-   ```env
-   REACT_APP_FIREBASE_API_KEY=your-firebase-api-key
-   REACT_APP_FIREBASE_AUTH_DOMAIN=your-firebase-auth-domain
-   REACT_APP_FIREBASE_PROJECT_ID=your-firebase-project-id
-   REACT_APP_NYT_API_KEY=your-nyt-api-key
-   ```
+
 
 ### Running the App
 1. Start the development server:
